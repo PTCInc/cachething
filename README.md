@@ -1,4 +1,4 @@
-# Template project for creating GitHub published Solutions
+# A practice guidance for Thingworx Cache Thing
 
 # Disclaimer
 
