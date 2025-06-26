@@ -60,11 +60,13 @@ All content is provided as "Releases" and is not directly in the Git Repo.  Clon
 
 ## Changelog
 
-
 ### [v0.1.0] - 2025-06-11
+
 - Intialized the publish process from internal gitlab to public github repo.
 
+### [v0.1.1] - 2025-06-26
 
+- Merged the review results from both Greg and Sabestien
 
 
 
